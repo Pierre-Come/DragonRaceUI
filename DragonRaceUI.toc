@@ -1,0 +1,7 @@
+## Interface: 11304
+## Title: DragonRaceUI
+## Notes: Hides unnecessary UI during DragonRacing.
+## Author: YourName
+## Version: 0.0.1
+
+DragonRaceUI.lua
